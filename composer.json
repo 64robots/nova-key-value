@@ -1,13 +1,19 @@
 {
     "name": "hnassr/nova-key-value",
     "description": "A Laravel Nova field.",
+    "version": "master",
+    "source": {
+        "url": "https://github.com/64robots/nova-key-value",
+        "type": "git",
+        "reference": "master"
+    },
     "keywords": [
         "laravel",
         "nova"
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0"
+        "php": "^7.1|^8.0"
     },
     "autoload": {
         "psr-4": {
